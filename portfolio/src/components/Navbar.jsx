@@ -2,9 +2,13 @@ import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { close, menu } from "../assets";
 import { navLinks } from "../data";
+import { GithubIcon, LinkedInIcon } from './Icons'
+import { motion } from "framer-motion"
+
+
 
 const Navbar = () => {
-  const [active, setActive] = useState("hero");
+  const [active, setActive] = useState("home");
   const [toggle, setToggle] = useState(false);
   const [scrolled, setScrolled] = useState(false);
 
@@ -48,7 +52,7 @@ const Navbar = () => {
           to='/'
           className='flex items-start'
           onClick={() => {
-            setActive("hero");
+            setActive("home");
             window.scrollTo(0, 0);
           }}
         >
@@ -91,11 +95,10 @@ const Navbar = () => {
               {navLinks.map((nav) => (
                 <li
                   key={nav.id}
-                  className={`font-poppins font-medium cursor-pointer text-[16px] ${
+                  className={`font-poppins font-medium pointer-events-auto cursor-pointer text-[16px] ${
                     active === nav.id ? "text-quaternary" : "text-secondary"
                   }`}
                   onClick={() => {
-                    setToggle(!toggle);
                     setActive(nav.id);
                   }}
                 >

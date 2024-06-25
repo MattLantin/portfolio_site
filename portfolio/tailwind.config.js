@@ -14,7 +14,7 @@ module.exports = {
         '3xl': "2160px",
       },
       backgroundImage: {
-        "hero-pattern": "url('/src/assets/herobg.jpeg')",
+        "home-pattern": "url('/src/assets/herobg.jpeg')",
       },
       keyframes: {
         textRotate1: {

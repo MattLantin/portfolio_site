@@ -6,8 +6,8 @@ import {
 
 export const navLinks = [
   {
-    id: "hero",
-    title: "Hero",
+    id: "home",
+    title: "Home",
   },
   {
     id: "portfolio",
@@ -39,9 +39,9 @@ const experiences = [
     company_name: "Tufts Engineering",
     date: "2023 - Present",
     details: [
-      "Optimized a recruiter-focused web platform using React, ensuring data security for <span style='color: white;'>1000+ global clients</span>, and modernized legacy systems to <span style='color: white;'>.NET 7</span>",
-      "Developed interactive UI components and back-end services with <span style='color: white;'>JavaScript, HTML, CSS</span>, and integrated <span style='color: white;'>C# with Entity Framework</span> for REST API and MySQL database",
-      "Automated marketing platforms' user-experience testing process by integrating <span style='color: white;'>Nightwatch Selenium</span>",
+      "Pursuing a Post Baccalaureate in Computer Science at <span style='color: white;'>Tufts Engineering (Remote Online)</span> with a GPA of <span style='color: white;'>3.87/4.0</span>.",
+      "Completed  <span style='color: white;'> Machine Learning </span> and  <span style='color: white;'> Algorithms </span> with an <span style='color: white;'>A</span>, demonstrating strong skills in <span style='color: white;'>python</span> and problem solving.",
+      "Excelled in  <span style='color: white;'> Data Structures </span> and  <span style='color: white;'>Computation Theory</span> with an <span style='color: white;'>A</span>, showcasing proficiency in data organization and <span style='color: white;'>C++</span>."
     ],
   },
   {
@@ -50,7 +50,7 @@ const experiences = [
     date: "2022 - 2023",
     details: [
       "Optimized a recruiter-focused web platform using React, ensuring data security for <span style='color: white;'>1000+ global clients</span>, and modernized legacy systems to <span style='color: white;'>.NET 7</span>",
-      "Developed interactive UI components and back-end services with <span style='color: white;'>JavaScript, HTML, CSS</span>, and integrated <span style='color: white;'>C# with Entity Framework</span> for REST API and MySQL database",
+      "Developed interactive UI components and back-end services with <span style='color: white;'>React, HTML, CSS</span>, and integrated <span style='color: white;'>C# with Entity Framework</span> for REST API and MySQL database using <span style='color: white;'>Azure Devops</span> and <span style='color: white;'>AWS pipelines</span>",
       "Automated marketing platforms' user-experience testing process by integrating <span style='color: white;'>Nightwatch Selenium</span>",
     ],
   },
@@ -59,7 +59,7 @@ const experiences = [
     company_name: "Credit Union Student Choice",
     date: "2021 - 2022",
     details: [
-      "Designed database schema with <span style='color: white;'>C# .NET</span> and established <span style='color: white;'>Azure DevOps pipeline</span>",
+      "Designed database schema with <span style='color: white;'>C# .NET</span> and established <span style='color: white;'>Azure DevOps</span> pipeline",
       "Developed dynamic UI elements with front-to-back integration in <span style='color: white;'>Vue</span>",
       "Managed <span style='color: white;'>SQL</span> database operations, built APIs, integrated 100 third-party systems, and increased Q1 revenue by 23%",             
     ],
@@ -69,7 +69,7 @@ const experiences = [
 
 const portfolio = [
   {
-    name: "Machine Learning & Big Tech Clones",
+    name: "Machine Learning & Web App Clones",
     description:
       "A GitHub repository showcasing projects in machine learning and Big Tech replicas.",
     image: oscs,
