@@ -12,6 +12,12 @@ const Navbar = () => {
   const [toggle, setToggle] = useState(false);
   const [scrolled, setScrolled] = useState(false);
 
+  const [isOpen, setIsOpen] = useState(false);
+
+  const handleClick = () =>{
+      setIsOpen(!isOpen)
+  }
+
   useEffect(() => {
     const handleScroll = () => {
       const scrollTop = window.scrollY;
@@ -48,18 +54,35 @@ const Navbar = () => {
       className="w-full flex items-center bg-gradient-to-b from-black sm:bg-none p-8 sm:px-16 sm:py-10 fixed z-40 pointer-events-none"
     >
       <div className='w-full flex justify-between items-start mx-auto'>
-        <Link
-          to='/'
-          className='flex items-start'
-          onClick={() => {
-            setActive("home");
-            window.scrollTo(0, 0);
-          }}
-        >
-          <p className='text-white text-[26px] lg:text-[36px] font-bold pointer-events-auto cursor-pointer flex'>
-            ML
-          </p>
-        </Link>
+      <nav className="flex items-center justify-center flex-wrap">
+
+          {/* <Link
+            to='/'
+            className='flex items-start'
+            onClick={() => {
+              setActive("home");
+              window.scrollTo(0, 0);
+            }}
+          >
+            <p className='text-white text-[26px] lg:text-[36px] font-bold pointer-events-auto cursor-pointer flex'>
+              ML
+            </p>
+          </Link> */}
+
+          <motion.a href="https://github.com/MattLantin" target={"_blank"}
+          whileHover={{y:-2}}
+          whileTap={{scale:0.9}}
+          className="w-6 mx-3 dark:bg-dark rounded-full pointer-events-auto">
+              <GithubIcon/>
+          </motion.a>
+          <motion.a href="https://www.linkedin.com/in/matt-lantin-b20211132/" target={"_blank"}
+          whileHover={{y:-2}}
+          whileTap={{scale:0.9}}
+          className="w-6 mx-3 pointer-events-auto">
+              <LinkedInIcon/>
+          </motion.a>
+
+        </nav>
 
         <ul className='list-none hidden sm:flex flex-col gap-5'>
           {navLinks.map((nav) => (
