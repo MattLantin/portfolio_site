@@ -1,8 +1,9 @@
 # 3D Parallax Developer Portfolio Website
-
+##[Link to Site](https://mattlantin.com).
 ![3D Parallax Developer Portfolio Thumbnail](https://i.ibb.co/86NQD5c/thumbnail-3d-portfolio-smaller.jpg)
 
 ## Introduction
+
 
 I created a 3D developer portfolio website to upgrade my minimal portfolio and complement my GitHub profile and terminal website. This custom site, which I've long wanted to build, combines the "wow" factor of my terminal website with three.js 3D graphics, interactive animations, and parallax effects, all while maintaining an easy-to-use and intuitive design. This website provides prospective clients or employers a quick overview of my work and capabilities, showcasing not only the listed projects but also my skills through the site itself.
 
