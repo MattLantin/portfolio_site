@@ -1,7 +1,10 @@
 # 3D Parallax Developer Portfolio Website
 ## [Link to Site](https://mattlantin.com)
-[![Screenshot 2024-06-27 at 11-27-43 AM](https://i.ibb.co/x7WYW5M/Screenshot-2024-06-27-at-11-27-43-AM.png)](https://ibb.co/x7WYW5M)
 
+https://ibb.co/tJgzyCb
+<a href="https://ibb.co/tJgzyCb"><img src="https://i.ibb.co/x7WYV5M/Screenshot-2024-06-27-at-11-27-43-AM.png" alt="Screenshot-2024-06-27-at-11-27-43-AM" border="0"></a>
+<a href="https://ibb.co/tJgzyCb"><img src="https://i.ibb.co/tJgzyCb/Screenshot-2024-06-27-at-11-27-43-AM.png" alt="Screenshot-2024-06-27-at-11-27-43-AM" border="0"></a>
+[url=https://ibb.co/tJgzyCb][img]https://i.ibb.co/x7WYV5M/Screenshot-2024-06-27-at-11-27-43-AM.png[/img][/url]
 
 ## Introduction
 
