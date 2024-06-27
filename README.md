@@ -2,8 +2,6 @@
 ## [Link to Site](https://mattlantin.com)
 
 <a href="https://ibb.co/tJgzyCb"><img src="https://i.ibb.co/x7WYV5M/Screenshot-2024-06-27-at-11-27-43-AM.png" alt="Screenshot-2024-06-27-at-11-27-43-AM" border="0"></a>
-<a href="https://ibb.co/tJgzyCb"><img src="https://i.ibb.co/tJgzyCb/Screenshot-2024-06-27-at-11-27-43-AM.png" alt="Screenshot-2024-06-27-at-11-27-43-AM" border="0"></a>
-
 
 ## Introduction
 
