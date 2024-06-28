@@ -1,10 +1,13 @@
 # 3D Parallax Developer Portfolio Website
+## [Link to Site](https://mattlantin.com)
 
-![3D Parallax Developer Portfolio Thumbnail](https://i.ibb.co/86NQD5c/thumbnail-3d-portfolio-smaller.jpg)
+<img src="https://i.ibb.co/x7WYV5M/Screenshot-2024-06-27-at-11-27-43-AM.png" alt="Screenshot-2024-06-27-at-11-27-43-AM" style="width: 100%; height: 100%;" />
+
 
 ## Introduction
 
-I built myself a 3D developer portfolio website to replace my minimal portfolio and compliment my GitHub profile page and terminal website. This is a custom website I've been wanting to build for a while, that has the "wow" factor of my terminal website thanks to three.js 3D graphics, interactive animations, and parallax, while maintaining an easy-to-use and intuitive design. This website gives a prospective client or employer a quick look at me and my work as a developer, showing them what I can do with not just the projects listed, but the website itself. 
+
+I created a 3D developer portfolio website to upgrade my minimal portfolio and complement my GitHub profile and terminal website. This custom site, which I've long wanted to build, combines the "wow" factor of my terminal website with three.js 3D graphics, interactive animations, and parallax effects, all while maintaining an easy-to-use and intuitive design. This website provides prospective clients or employers a quick overview of my work and capabilities, showcasing not only the listed projects but also my skills through the site itself.
 
 ## Technologies
 - Vite - Build tool for the boilerplate and structure
