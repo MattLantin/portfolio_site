@@ -14,7 +14,7 @@ I created a 3D developer portfolio website to upgrade my minimal portfolio and c
 - Tailwind - CSS framework
 - Three.js - Animated 3D graphics
 - Framer Motion - Interactive animations
-- Hostinger - Web hosting platform
+- Firebase - Web hosting platform
 - GitHub - Version control & CI/CD
 
 ## Extra Resources
